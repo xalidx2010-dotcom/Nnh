@@ -1,0 +1,6 @@
+{
+  "name": "AuraLife",
+  "description": "Sizin fərdi özünə-qulluq, əhval və vərdiş köməkçiniz. Gündəlik vərdişləri tamamlayın, əhvalınızı izləyin və prosedurol səs sintezi ilə dərin fəaliyyətə fokuslanın.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
